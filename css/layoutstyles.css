@@ -1,0 +1,12 @@
+Body {
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    background-color: green;
+    border: 2px solid white;
+    position: absolute;
+   
+
+}
